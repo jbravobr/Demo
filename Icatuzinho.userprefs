@@ -1,0 +1,46 @@
+﻿<Properties StartupItem="iOS/Icatuzinho.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.cs">
+    <Files>
+      <File FileName="Icatuzinho/App.xaml" Line="6" Column="1" />
+      <File FileName="Icatuzinho/App.xaml.cs" Line="13" Column="13" />
+      <File FileName="Icatuzinho/PageModels/LoginPageModel.cs" Line="19" Column="1" />
+      <File FileName="Icatuzinho/PageModels/HomePageModel.cs" Line="9" Column="1" />
+      <File FileName="Icatuzinho/Pages/LoginPage.xaml" Line="5" Column="1" />
+      <File FileName="Icatuzinho/Pages/LoginPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Icatuzinho/Pages/HomePage.xaml" Line="8" Column="48" />
+      <File FileName="Icatuzinho/Pages/HomePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Icatuzinho" expanded="True">
+            <Node name="Icatuzinho" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="PageModels" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="HomePage.xaml" expanded="True" />
+                <Node name="LoginPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="Icatuzinho.iOS" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Rodrigo/Projects/Icatuzinho/Icatuzinho/PageModels/LoginPageModel.cs" line="19" column="74" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Droid/Icatuzinho.Droid.csproj</String>
+  </DisabledProjects>
+</Properties>
